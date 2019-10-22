@@ -1,6 +1,6 @@
 def base_hash
-  hash = Hash.new
-	hash["x"] = "value"
+  monopoly = Hash.new
+	monopoly["railroads"] = "value"
 	p hash
 	# Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
