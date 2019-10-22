@@ -1,5 +1,4 @@
 def base_hash
-  monopoly = Hash.new
 	monopoly = {railroads: {}}
 	p hash
 	# Remember implicit return! We're returning this new Hash _without_ the
